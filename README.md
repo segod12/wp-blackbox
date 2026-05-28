@@ -1,4 +1,4 @@
-# WP Blackbox
+# WP Blackbox - Nayan The Developer
 
 WP Blackbox is a local WordPress incident recorder for developers, freelancers, and agencies.
 
