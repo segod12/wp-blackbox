@@ -256,21 +256,6 @@ wp-blackbox/
   uninstall.php
 ```
 
-## Roadmap
-
-Possible next improvements:
-
-- Email alerts for critical issues
-- Slack/Discord webhook alerts
-- Weekly client digest
-- White-label agency reports
-- HTML/PDF report export
-- Better WooCommerce diagnostics
-- Better Action Scheduler hook ownership mapping
-- Plugin file scanner for AJAX/cron ownership
-- Pre-update and post-update health snapshots
-- Multisite support
-- Remote agency dashboard
 
 ## Important Disclaimer
 
